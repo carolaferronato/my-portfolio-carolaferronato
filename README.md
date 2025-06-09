@@ -32,7 +32,7 @@ Geospatial Analysis (QGis) · Environmental Datasets · Visualization
 #### Contact
 
 - 📧 ferronatocarola@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/carolaferronato/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carola-ferronato-299141283/)  
 - 🌐 [GitHub Profile](https://github.com/carolaferronato)
 
 ---
