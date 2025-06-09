@@ -1,4 +1,4 @@
-### Hi!, I'm Carola Ferronato
+#### Hi !, I'm Carola Ferronato
 
 **Environmental Scientist | Data Analyst | PhD in Biology**
 
@@ -7,7 +7,7 @@ My background in biological oceanography and ecological research now converges w
 
 ---
 
-### Project Highlights
+#### Project Highlights
 
 🔹 **[Video Club Analysis](https://github.com/carolaferronato/videoclub-analysis)**  
 Exploring rental patterns and film popularity using SQL and MongoDB.  
@@ -21,7 +21,7 @@ Integrating species abundance time-series with environmental data to explore mar
 
 ---
 
-### Skills & Tools
+#### Skills & Tools
 
 Python · SQL · MongoDB · Pandas · NumPy · Jupyter · Git  
 Data Cleaning · Exploratory Data Analysis (EDA) · Scientific Communication  
@@ -29,18 +29,18 @@ Geospatial Analysis (QGis) · Environmental Datasets · Visualization
 
 ---
 
-### CV
+#### CV
 
 📎 [Download my CV (PDF)](./CarolaFerronato_CV.pdf)
 
 ---
 
-### Contact
+#### Contact
 
-- 📧 ferronatocarola@protonmail.com  
+- 📧 ferronatocarola@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/carolaferronato/)  
 - 🌐 [GitHub Profile](https://github.com/carolaferronato)
 
 ---
 
-### Thanks for visiting! ❤️
+#### Thanks for visiting! ❤️
