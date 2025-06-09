@@ -29,16 +29,10 @@ Geospatial Analysis (QGis) · Environmental Datasets · Visualization
 
 ---
 
-#### CV
-
-📎 [Download my CV (PDF)](./CarolaFerronato_CV.pdf)
-
----
-
 #### Contact
 
 - 📧 ferronatocarola@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/carolaferronato/)  
+- 💼 [LinkedIn](https://www.linkedin.com/carolaferronato/)  
 - 🌐 [GitHub Profile](https://github.com/carolaferronato)
 
 ---
