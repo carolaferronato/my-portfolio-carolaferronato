@@ -1,4 +1,4 @@
-#### Hi !, I'm Carola Ferronato
+#### Hola!, I'm Carola Ferronato
 
 **Environmental Scientist | Data Analyst | PhD in Biology**
 
