@@ -9,7 +9,7 @@ My background in biological oceanography and ecological research now converges w
 
 #### Project Highlights
 
-🔹 **Lagrangian Particle Tracking – Patagonian Shelf (Argentina)(https://github.com/carolaferronato/chla-lagrangian-particles)**
+🔹 **[Lagrangian Particle Tracking – Patagonian Shelf (Argentina)](https://github.com/carolaferronato/chla-lagrangian-particles)**
 Analyzing ocean current-driven particle trajectories on the Patagonian shelf using Parcels.
 Tools: Parcels · Python · xarray · NetCDF · Matplotlib · Jupyter · Oceanographic Data
 
