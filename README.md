@@ -1,6 +1,6 @@
 #### Hola!, I'm Carola Ferronato
 
-**Environmental Scientist | Data Analyst | PhD in Biology**
+**Ocean Scientist | Data Analyst | PhD in Biology**
 
 Welcome to my portfolio repository — a curated collection of data-driven projects that reflect my journey through science, sustainability, and analytics. 
 My background in biological oceanography and ecological research now converges with data science tools to extract insights from real-world datasets across disciplines.
@@ -8,6 +8,10 @@ My background in biological oceanography and ecological research now converges w
 ---
 
 #### Project Highlights
+
+🔹 **Lagrangian Particle Tracking – Patagonian Shelf (Argentina)(https://github.com/carolaferronato/chla-lagrangian-particles)**
+Analyzing ocean current-driven particle trajectories on the Patagonian shelf using Parcels.
+Tools: Parcels · Python · xarray · NetCDF · Matplotlib · Jupyter · Oceanographic Data
 
 🔹 **[Video Club Analysis](https://github.com/carolaferronato/videoclub-analysis)**  
 Exploring rental patterns and film popularity using SQL and MongoDB.  
@@ -23,7 +27,7 @@ Integrating species abundance time-series with environmental data to explore mar
 
 #### Skills & Tools
 
-Python · SQL · MongoDB · Pandas · NumPy · Jupyter · Git  
+Python · SQL · MongoDB · Pandas · NumPy · Jupyter   
 Data Cleaning · Exploratory Data Analysis (EDA) · Scientific Communication  
 Geospatial Analysis (QGis) · Environmental Datasets · Visualization
 
