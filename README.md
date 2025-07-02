@@ -13,15 +13,21 @@ My background in biological oceanography and ecological research now converges w
 Analyzing ocean current-driven particle trajectories on the Patagonian shelf using Parcels.
 Tools: Parcels · Python · xarray · NetCDF · Matplotlib · Jupyter · Oceanographic Data
 
-🔹 **[Video Club Analysis](https://github.com/carolaferronato/videoclub-analysis)**  
-Exploring rental patterns and film popularity using SQL and MongoDB.  
-*Tools: PostgreSQL · MongoDB · Python · Pandas · Matplotlib · Plotty ·Jupyter*
-
 🔹 **[Marine Biodiversity (BioTIME + Bio-ORACLE)](https://github.com/carolaferronato/marine-biotime)**  
 Integrating species abundance time-series with environmental data to explore marine biodiversity trends.  
 *Tools: Python · SQL · Data Wrangling · Exploratory Analysis · Ecological Datasets*
 
+---
+
 *(More projects coming soon)*
+
+---
+
+#### Other Projects & Technical Demos
+
+🔹 **[Video Club Analysis](https://github.com/carolaferronato/videoclub-analysis)** 
+A hands-on example combining relational and non-relational databases (PostgreSQL & MongoDB) to analyze movie rentals.  
+*Tools: PostgreSQL · MongoDB · Python · Pandas · Matplotlib · Plotly · Jupyter*
 
 ---
 
