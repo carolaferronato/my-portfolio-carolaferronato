@@ -6,7 +6,7 @@ Welcome to my portfolio, a selection of projects focused on environmental data a
 
 ---
 
-#### Project Highlights
+#### Selected projects
 
 🔹 **[Lagrangian Particle Tracking – Patagonian Shelf (Argentina)](https://github.com/carolaferronato/chla-lagrangian-particles)**
 Analyzing ocean current-driven particle trajectories on the Patagonian shelf using Parcels.
